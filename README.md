@@ -43,7 +43,7 @@ The exploratory data analysis section includes various visualizations and analys
 - The time taken to close claims, including summary statistics such as mean, standard deviation, minimum, maximum, and quartiles.
 - The relationship between time to close and location, explored through histograms, box plots, and scatter plots.
 - Heatmap showcasing the average time to close claims across different locations.
-- 
+  
 ### Conclusion
 The Food Claims Analysis project provides valuable insights into food claims data, highlighting patterns, and trends related to claim closure time, location, and causes. The analysis can help stakeholders better understand and address food-related incidents, improve response times, and enhance overall customer satisfaction.
 
