@@ -10,7 +10,6 @@ This repository contains the code and analysis for the Food Claims project, whic
 - Data Cleaning
 - Exploratory Data Analysis
 - Conclusion
-- How to Use
 - Dependencies
 
 ### Introduction
@@ -46,14 +45,6 @@ The exploratory data analysis section includes various visualizations and analys
   
 ### Conclusion
 The Food Claims Analysis project provides valuable insights into food claims data, highlighting patterns, and trends related to claim closure time, location, and causes. The analysis can help stakeholders better understand and address food-related incidents, improve response times, and enhance overall customer satisfaction.
-
-### How to Use
-To replicate the analysis, follow these steps:
-
-- Clone this repository to your local machine.
-- Ensure you have the required dependencies (listed below) installed.
-- Run the Jupyter Notebook or Python script containing the code.
-- Modify the code or add further analysis as needed.
 
 ### Dependencies
 The following dependencies are required to run the code:
